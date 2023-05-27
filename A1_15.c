@@ -1,13 +1,3 @@
-/* OS Assignment - 1 Submission Group 15
-Divyam Kumar
-Kartik Bansal
-Akarsh Jain
-Tanvi Behera
-Akkshunn Vijroy
-Tanishq Doshi
-Shivam Parashar
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
